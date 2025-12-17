@@ -1,5 +1,17 @@
 # Changelog
 
+## [18.2.0](https://github.com/olimorris/codecompanion.nvim/compare/v18.1.1...v18.2.0) (2025-12-17)
+
+
+### Features
+
+* **cmds:** can toggle with the adapter param ([#2535](https://github.com/olimorris/codecompanion.nvim/issues/2535)) ([19ac06a](https://github.com/olimorris/codecompanion.nvim/commit/19ac06a849778d002c93ffc9cb90d07120a9b1a7)), closes [#2528](https://github.com/olimorris/codecompanion.nvim/issues/2528)
+
+
+### Bug Fixes
+
+* **chat:** changing adapters and models ([#2472](https://github.com/olimorris/codecompanion.nvim/issues/2472)) ([663d53c](https://github.com/olimorris/codecompanion.nvim/commit/663d53cd1a05a699c7d2741d09369c15f12b1e10))
+
 ## [18.1.1](https://github.com/olimorris/codecompanion.nvim/compare/v18.1.0...v18.1.1) (2025-12-15)
 
 
